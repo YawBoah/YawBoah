@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @YawBoah
-- 👀 I’m interested in anything tech
-- 🌱 I’m currently learning whatever I can do 
-- 💞️ I’m looking forward to making an impact in tech and the world in general...
-- 📫 How to reach me ...yawboahene.yb@gmail.com
-- </a>
+<h1 align="center">👋 Hi, I’m YawBoah</h1> 
+<p>👀 I’m interested in anything tech <br>
+🌱 I’m currently learning whatever I can to be the best or among the best<br>
+💞️ I’m looking forward to making an impact in tech and the world in general...</p>
+<h3>📫 Hit me on my socials :</h3>
 <a href="https://twitter.com/YYawboahene">
   <img
     alt="Twitter"
@@ -22,7 +21,7 @@
     src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
   />
 </a>
-- <p>
+<p>
    <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
   <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
