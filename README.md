@@ -16,7 +16,7 @@
     src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"
   />
 </a>
-<a href="https://www.linkedin.com/in/alekspopovic/">
+<a href="https://www.linkedin.com/in/yaw-boahene-39a880210/">
   <img
     alt="Linkedin"
     src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
