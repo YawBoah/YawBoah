@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YawBoah
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on software engineering or all projects...
+- 👀 I’m interested in anything tech
+- 🌱 I’m currently learning whatever I can do 
+- 💞️ I’m looking forward to making an impact in tech and the world in general...
 - 📫 How to reach me ...yawboahene.yb@gmail.com
 
 <!---
