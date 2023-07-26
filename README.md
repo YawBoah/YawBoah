@@ -3,6 +3,10 @@
 - 🌱 I’m currently learning whatever I can do 
 - 💞️ I’m looking forward to making an impact in tech and the world in general...
 - 📫 How to reach me ...yawboahene.yb@gmail.com
+- <p>
+   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
+  <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
+</p>
 
 <!---
 YawBoah/YawBoah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
