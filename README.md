@@ -4,7 +4,7 @@
 - 💞️ I’m looking forward to making an impact in tech and the world in general...
 - 📫 How to reach me ...yawboahene.yb@gmail.com
 - </a>
-<a href="https://twitter.com/alekswritescode">
+<a href="https://twitter.com/YYawboahene">
   <img
     alt="Twitter"
     src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge"
