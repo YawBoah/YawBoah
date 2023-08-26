@@ -3,7 +3,8 @@
 🌱 I’m currently learning 📙🔓 whatever I can to be the best or among the best 👷⚒👷 <br>
 💞️ I’m looking forward to making an impact in tech and the world 🌏🌐 in general</p>
 <h3 align='center'>📫 Hit me on my socials 💻📱:</h3>
-<a href="https://t.me/wofa_NanaYaw">
+<p align='center'>
+  <a href="https://t.me/wofa_NanaYaw">
   <img alt="Telegram" src="https://img.shields.io/badge/Yboah-30302f?style=for-the-badge&logo=telegram"
 </a>
 <a href="https://twitter.com/YYawboahene">
@@ -15,6 +16,7 @@
 <a href="https://www.linkedin.com/in/yaw-boahene-39a880210/">
   <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/>
 </a>
+</p>
 
 <h3 align='center'>⚙⚒ I know:</h3>
 <p align='center'>
