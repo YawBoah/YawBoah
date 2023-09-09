@@ -37,6 +37,11 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yawboah&theme=github_dark)
 [![Yaw Boahene's stats](https://github-readme-stats.vercel.app/api?username=yawboah&show_icons=true&theme=github_dark)](https://github.com/yawboah)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=qbentil&theme=dracula)  
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YawBoah&bg_color=222524&color=36ce4f&line=30be1e&point=3f3e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <h2>🏆My Github Profile Trophy</h2>
 <img width=1000 src="https://github-profile-trophy.vercel.app/?username=yawboah&column=7&theme=gruvbox&no-frame=true"/>
+
+
+
+
