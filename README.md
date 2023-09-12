@@ -7,7 +7,7 @@
 <h3 align='center'>📫 Hit me on my socials 💻📱:</h3>
 <p align='center'>
   <a href="https://t.me/wofa_NanaYaw">
-  <img alt="Telegram" src="https://img.shields.io/badge/Yboah-30302f?style=for-the-badge&logo=telegram"
+  <img alt="Telegram" src="https://img.shields.io/badge/Yboah-30302f?style=for-the-badge&logo=telegram"/>
 </a>
 <a href="https://twitter.com/YYawboahene">
   <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge"/>
