@@ -32,7 +32,7 @@
 </p>
 
 
-![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=yawboah&theme=dracula&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=YawBoah&theme=dark)](https://git.io/streak-stats)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yawboah&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yawboah&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yawboah&theme=github_dark)
