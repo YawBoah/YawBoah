@@ -20,19 +20,18 @@
 </a>
 </p>
 
-<h3 align='center'>⚙⚒ I know:</h3>
-<p align='center'>
-  <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
-  <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Github-3776AB?style=for-the-badge&logo=github&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Python-0000ff?style=for-the-badge&logo=python&logoColor=yellow" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-   <img src="https://img.shields.io/badge/PHP-00000F?style=for-the-badge&logo=php&logoColor=red" />
-</p>
+<h3 align='left'>⚙⚒ Tech Stack:</h3>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-
-
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5) &nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6) &nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) &nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github) &nbsp; <br>
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC) &nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) &nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp; <br>
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask) &nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
 
 ### ⚙️ &nbsp;GitHub Analytics
 [![GitHub Streak](https://streak-stats.demolab.com/?user=YawBoah&theme=dark)](https://git.io/streak-stats)
