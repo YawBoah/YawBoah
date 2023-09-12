@@ -2,7 +2,7 @@
 
 <h1 align="center">👋 Hi, I’m YawBoah</h1> 
 <p align="center">👀 I’m interested in anything tech 💻🖥<br>
-🌱 I’m currently learning 📙🔓 whatever I can to be the best or among the best 👷⚒👷 <br>
+🌱 I’m currently learning 📙🔓 whatever I can to be the best or among the best 👷⚒👷<br>
 💞️ I’m looking forward to making an impact in tech and the world 🌏🌐 in general</p>
 <h3 align='center'>📫 Hit me on my socials 💻📱:</h3>
 <p align='center'>
@@ -41,7 +41,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YawBoah&bg_color=222524&color=36ce4f&line=30be1e&point=3f3e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h2>🏆My Github Profile Trophy</h2>
-<img width=1000 src="https://github-profile-trophy.vercel.app/?username=yawboah&column=7&theme=gruvbox&no-frame=true"/>
+<img width=999 src="https://github-profile-trophy.vercel.app/?username=yawboah&column=7&theme=gruvbox&no-frame=true"/>
 
 
 
