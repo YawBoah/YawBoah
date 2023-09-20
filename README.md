@@ -34,16 +34,16 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
 
 ### ⚙️ &nbsp;GitHub Analytics
-[![GitHub Streak](https://streak-stats.demolab.com/?user=YawBoah&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=YawBoah&theme=chartreuse-dark)](https://git.io/streak-stats)
 <p align="left">
 <a href="https://github.com/AVS1508">
-  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=YawBoah&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YawBoah&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=YawBoah&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/> <br>
+  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YawBoah&layout=compact&langs_count=8&theme=chartreuse-dark"/>
 </a>
 </p>
 
 <h2>🏆My Github Profile Trophy</h2>
-<img width=1000 src="https://github-profile-trophy.vercel.app/?username=yawboah&column=7&theme=radical&no-frame=true"/>
+<img width=1000 src="https://github-profile-trophy.vercel.app/?username=yawboah&column=7&theme=chartreuse-dark&no-frame=true"/>
 
 
 
