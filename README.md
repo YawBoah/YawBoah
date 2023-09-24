@@ -43,7 +43,7 @@
 </p>
 
 <h2>🏆My Github Profile Trophy</h2>
-<img width=1000 src="https://github-profile-trophy.vercel.app/?username=yawboah&column=7&theme=chartreuse-dark&no-frame=true"/>
+<img width=1000 src="https://github-profile-trophy.vercel.app/?username=yawboah&column=7&theme=dark&no-frame=true"/>
 
 
 
