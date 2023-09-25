@@ -34,16 +34,22 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
 
 ### ⚙️ &nbsp;GitHub Analytics
-[![GitHub Streak](https://streak-stats.demolab.com/?user=YawBoah&theme=chartreuse-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=YawBoah&theme=chartreuse-dark&hide_border=true)](https://git.io/streak-stats)
 <p align="left">
 <a href="https://github.com/AVS1508">
-  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=YawBoah&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/> <br>
-  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YawBoah&layout=compact&langs_count=8&theme=chartreuse-dark"/>
+  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=YawBoah&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true"/> <br>
+  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YawBoah&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true"/>
 </a>
 </p>
 
-<h2>🏆My Github Profile Trophy</h2>
-<img width=1000 src="https://github-profile-trophy.vercel.app/?username=YawBoah&theme=matrix&no-frame=true"/>
+### 🏆My Github Profile Trophy
+
+![](https://github-trophies.vercel.app/?username=YawBoah&theme=matrix)
+
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
 
 
 
