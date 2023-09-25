@@ -42,12 +42,12 @@
 </a>
 </p>
 
-### 🏆My Github Profile Trophy
-
-![](https://github-trophies.vercel.app/?username=YawBoah&theme=matrix)
+### 🏆GitHub Trophies
+![](https://github-trophies.vercel.app/?username=YawBoah&theme=matrix&no-frame=true&no-bg=true&margin-w=4)
 
 ### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
 
 
 
