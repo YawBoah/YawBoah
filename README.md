@@ -1,8 +1,6 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=yawboah&label=Profile%20views&color=e91e63&style=flat" alt="yawboah" /> </p>
-
 <h1 align="center">👋 Hi, I’m YawBoah</h1> 
 <p align="center">👀 I’m interested in anything tech💻🖥<br>
-  
 🌱 I’m currently learning 📙🔓 whatever I can to be the best or among the best 👷⚒👷<br>
 💞️ I’m looking forward to making an impact in tech and the world 🌏🌐 in general</p>
 
