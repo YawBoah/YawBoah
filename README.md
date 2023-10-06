@@ -6,6 +6,7 @@
 💞️ I’m looking forward to making an impact in tech and the world 🌏🌐 in general</p>
 <h3 align='center'>📫 Hit me on my socials 💻📱:</h3>
 <p align='center'>
+  
   <a href="https://t.me/wofa_NanaYaw">
   <img alt="Telegram" src="https://img.shields.io/badge/Yboah-30302f?style=for-the-badge&logo=telegram"/>
 </a>
