@@ -42,6 +42,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Microsoft Office ](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ### ⚙️ &nbsp;GitHub Analytics
 [![GitHub Streak](https://streak-stats.demolab.com/?user=YawBoah&theme=chartreuse-dark&hide_border=true)](https://git.io/streak-stats)
