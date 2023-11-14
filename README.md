@@ -27,7 +27,7 @@
 <h3 align='left'>⚙⚒ Tech Stack:</h3>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5) &nbsp;
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) &nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6) &nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) &nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github) &nbsp; <br>
