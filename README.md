@@ -37,6 +37,7 @@
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask) &nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### ⚙️ &nbsp;GitHub Analytics
 [![GitHub Streak](https://streak-stats.demolab.com/?user=YawBoah&theme=chartreuse-dark&hide_border=true)](https://git.io/streak-stats)
