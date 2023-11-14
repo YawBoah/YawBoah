@@ -38,6 +38,7 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) &nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Microsoft Office ](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 ### ⚙️ &nbsp;GitHub Analytics
 [![GitHub Streak](https://streak-stats.demolab.com/?user=YawBoah&theme=chartreuse-dark&hide_border=true)](https://git.io/streak-stats)
