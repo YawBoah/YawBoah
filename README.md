@@ -49,7 +49,9 @@
 <p align="left">
 <a href="https://github.com/AVS1508">
   <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=YawBoah&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true"/>
+  
   <br>
+  
   <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YawBoah&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true"/>
 </a>
 </p>
