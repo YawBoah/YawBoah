@@ -3,7 +3,7 @@
 <p align="center">
   👀 Exploring the wonders of technology 💻🖥<br>
   👀 Passionate about all things tech 💻🖥<br>
-  🌱🌱🌱 Currently on a learning journey to be the best and to master my craft👷⚒👷<br>
+  🌱Currently on a learning journey to master my craft👷⚒👷 and also to be the best <br>
   💞️ Committed to leaving a positive mark on both tech and the world 🌏🌐
 </p>
 
