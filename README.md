@@ -2,7 +2,8 @@
 <h1 align="center">👋 Hi, I’m YawBoah</h1> 
 <p align="center">
   👀 Exploring the wonders of technology 💻🖥<br>
-  🌱 On a continuous journey to master my craft 👷⚒👷<br>
+  👀 Passionate about all things tech 💻🖥<br>
+  🌱🌱🌱 Currently on a learning journey to be the best and to master my craft👷⚒👷<br>
   💞️ Committed to leaving a positive mark on both tech and the world 🌏🌐
 </p>
 
