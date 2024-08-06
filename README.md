@@ -19,7 +19,7 @@
   <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge"/>
 </a>
   
-<a href="https://www.instagram.com/mr.yob_/">
+<a href="https://www.instagram.com/master.yob_/">
   <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"/>
 </a>
   
