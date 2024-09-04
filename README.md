@@ -8,8 +8,8 @@
   💞️ Committed to leaving a positive mark on both tech and the world 🌏🌐
 </p>
 
-<h3 align='center'>📫 Hit me on my socials 💻📱:</h3>
-<p align='center'>
+<h3 align='left'>📫 Hit me on my socials 💻📱:</h3>
+<p align='left'>
   
   <a href="https://t.me/wofa_NanaYaw">
   <img alt="Telegram" src="https://img.shields.io/badge/Yboah-30302f?style=for-the-badge&logo=telegram"/>
