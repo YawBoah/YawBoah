@@ -1,4 +1,4 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=yawboah&label=Profile%20views&color=e91e63&style=flat" alt="yawboah" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=yawboah&label=Profile%20views&color=e91e63&style=flat" alt="yawboah" /></p>
 
 <h1 align="left">👋 Hi, I’m MasterYOB </h1> 
 <p align="left">
