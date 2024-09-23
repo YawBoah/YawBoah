@@ -56,8 +56,8 @@
 </a>
 </p>
 
-### 🏆GitHub Trophies
+### 🏆GitHub Trophies 
 ![](https://github-trophies.vercel.app/?username=YawBoah&theme=matrix&no-frame=true&no-bg=true&margin-w=4)
 
-### ✍️Random Dev Quote
+### ✍️Random Dev Quotes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
